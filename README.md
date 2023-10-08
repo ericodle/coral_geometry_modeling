@@ -20,14 +20,8 @@ One of the key findings of this research is that the rate of surface area growth
 
 ## Repository Contents
 
-- **Data**: Contains datasets and measurements used in our research.
-- **Code**: Includes scripts and tools for modeling and analyzing colony growth.
-- **Documentation**: Detailed documentation on our research methods and findings.
-- **License**: Information about the licensing terms for using our code and data.
-
-## How to Use
-
-If you're interested in our research or would like to explore the code and data, feel free to clone or fork this repository. You can find detailed instructions on running our analysis scripts and accessing the datasets in the `Documentation` section.
+- **Code**: Includes a Jupyter Notebook with linked Google Colab environment for quick access to our mathematical models.
+- **License**: Information about the licensing terms for using our code.
 
 ## Contributions
 
