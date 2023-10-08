@@ -1,6 +1,6 @@
 # Coral Colony Geometry and Growth
 
-![Coral Colony](coral_image.jpg)
+image here ![Coral Colony](coral_image.jpg)
 
 ## Overview
 
