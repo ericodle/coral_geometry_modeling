@@ -38,3 +38,23 @@ We welcome contributions from the scientific community and collaborators who are
 This project is open-source and is released under the [MIT License](LICENSE). Feel free to use and build upon our work while giving appropriate credit.
 
 ---
+## Citing Our Research
+
+If you find our research and code useful in your work, we kindly request that you cite our associated research paper in your publications. You can find the paper through the following citation:
+
+**Title:** [Title of Your Research Paper]
+**Authors:** [Your Name(s) and Collaborators]
+**Journal:** [Name of the Journal or Conference]
+**Year:** [Publication Year]
+**DOI:** [Digital Object Identifier, if available]
+
+Here is the preferred citation in BibTeX format:
+
+```bibtex
+@article{your_citation_key,
+  title = {Title of Your Research Paper},
+  author = {Your Name(s) and Collaborators},
+  journal = {Name of the Journal or Conference},
+  year = {Publication Year},
+  doi = {DOI if available}
+}
