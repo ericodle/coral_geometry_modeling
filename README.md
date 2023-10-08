@@ -33,10 +33,6 @@ If you're interested in our research or would like to explore the code and data,
 
 We welcome contributions from the scientific community and collaborators who are interested in furthering our understanding of coral colony geometry and growth. Please see our [contribution guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
-## License
-
-This project is open-source and is released under the [MIT License](LICENSE). Feel free to use and build upon our work while giving appropriate credit.
-
 ---
 ## Citing Our Research
 
@@ -60,3 +56,8 @@ Here is the preferred citation in BibTeX format:
   year = {Publication Year},
   doi = {DOI if available}
 }
+```
+
+## License
+
+This project is open-source and is released under the [MIT License](LICENSE). Feel free to use and build upon our work while giving appropriate credit.
