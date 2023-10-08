@@ -20,7 +20,7 @@ One of the key findings of this research is that the rate of surface area growth
 
 ## Repository Contents
 
-- **Code**: Includes a Jupyter Notebook with linked Google Colab environment for quick access to our mathematical models.
+- **Code**: We include a Jupyter Notebook [coral_geometries.ipynb](coral_geometries.ipynb) with linked Google Colab environment for quick access to our mathematical models.
 - **License**: Information about the licensing terms for using our code.
 
 ## Contributions
