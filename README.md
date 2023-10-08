@@ -40,6 +40,8 @@ This project is open-source and is released under the [MIT License](LICENSE). Fe
 ---
 ## Citing Our Research
 
+Our research paper, titled "Coral geometry and why it matters" provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper by following this link: [Research Paper - Semantic Positioning of Japanese Adverbs](https://example.com/your-research-paper-link).
+
 If you find our research and code useful in your work, we kindly request that you cite our associated research paper in your publications. You can find the paper through the following citation:
 
 **Title:** [Title of Your Research Paper]
