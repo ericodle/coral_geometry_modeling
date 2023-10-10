@@ -27,10 +27,6 @@ One of the key findings of this research is that the rate of surface area growth
 
 We welcome contributions from the scientific community and collaborators who are interested in furthering our understanding of coral colony geometry and growth. Please see our [contribution guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
----
-## Citing Our Research
-
-Our research paper, titled "Coral geometry and why it matters" provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper by following this link: [Research Paper - Semantic Positioning of Japanese Adverbs](https://example.com/your-research-paper-link).
 
 ## Citing Our Research
 
