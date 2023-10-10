@@ -32,25 +32,13 @@ We welcome contributions from the scientific community and collaborators who are
 
 Our research paper, titled "Coral geometry and why it matters" provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper by following this link: [Research Paper - Semantic Positioning of Japanese Adverbs](https://example.com/your-research-paper-link).
 
+## Citing Our Research
+
+Our research paper provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper by following this link: [LINK](https://).
+
 If you find our research and code useful in your work, we kindly request that you cite our associated research paper in your publications. You can find the paper through the following citation:
 
-**Title:** [Title of Your Research Paper]
-**Authors:** [Your Name(s) and Collaborators]
-**Journal:** [Name of the Journal or Conference]
-**Year:** [Publication Year]
-**DOI:** [Digital Object Identifier, if available]
-
-Here is the preferred citation in BibTeX format:
-
-```bibtex
-@article{your_citation_key,
-  title = {Title of Your Research Paper},
-  author = {Your Name(s) and Collaborators},
-  journal = {Name of the Journal or Conference},
-  year = {Publication Year},
-  doi = {DOI if available}
-}
-```
+COMING SOON
 
 ## License
 
