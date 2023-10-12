@@ -33,8 +33,8 @@ We welcome contributions from the scientific community and collaborators who are
 Our research paper provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper by following this link: [LINK](https://).
 
 If you find our research and code useful in your work, we kindly request that you cite our associated research paper in your publications. You can find the paper through the following citation:
-_
-Manuscript under review_
+
+*Manuscript under review
 
 ## License
 
