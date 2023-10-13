@@ -30,7 +30,7 @@ We welcome contributions from the scientific community and collaborators who are
 
 ## Citing Our Research
 
-Our research paper provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper by following this link: [LINK](https://www.researchgate.net/publication/371607590_Geometry_and_why_it_matters).
+Our research paper provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper [here](https://www.researchgate.net/publication/371607590_Geometry_and_why_it_matters).
 
 ## License
 
