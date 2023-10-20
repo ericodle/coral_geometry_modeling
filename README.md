@@ -1,7 +1,5 @@
 # Coral Colony Geometry and Growth
 
-image here ![Coral Colony](coral_image.jpg)
-
 ## Overview
 
 Welcome to the Coral Colony Geometry and Growth research project repository. In this project, we explore the fascinating world of clonal organisms, specifically reef-building corals. These organisms exhibit a diverse range of colony morphologies and geometric shapes, which have profound physiological and ecological implications.
@@ -21,7 +19,6 @@ One of the key findings of this research is that the rate of surface area growth
 ## Repository Contents
 
 - **Code**: We include a Jupyter Notebook [coral_geometries.ipynb](coral_geometries.ipynb) with linked Google Colab environment for quick access to our mathematical models.
-- **License**: Information about the licensing terms for using our code.
 
 ## Contributions
 
