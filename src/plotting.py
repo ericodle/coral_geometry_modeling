@@ -1,3 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
 # Plot the surface area productivity for hemispheroids
 def hemispheroid_SAP():
   # Create meshgrid for oblate and prolate
