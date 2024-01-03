@@ -1,14 +1,24 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
+from src.functions import *
+import src.constants as const
 
+G = const.G
+rho = const.rho
+
+r = const.r
+e_oblate = const.e_oblate
+e_prolate = const.e_prolate
+
+h = const.h
+a = const.a
 # Plot the surface area productivity for hemispheroids
 def hemispheroid_SAP():
   # Create meshgrid for oblate and prolate
   r_vals_oblate, e_vals_oblate = np.meshgrid(r, e_oblate)
   r_vals_prolate, e_vals_prolate = np.meshgrid(r, e_prolate)
-  
-  # Assuming you have defined the functions hemisphere_surface, prolate_surface, and oblate_surface somewhere in your code
+
   
   # Calculate the surface values for each shape
   hemisphere_vals = hemisphere_surface(r_vals_oblate, np.zeros_like(r_vals_oblate), G, rho)  # Hemisphere surface with e=0
@@ -16,7 +26,7 @@ def hemispheroid_SAP():
   oblate_vals = oblate_surface(r_vals_oblate, e_vals_oblate, G, rho)
   
   # Create 3D plot
-  fig = plt.figure(figsize=(15, 15), dpi=600)
+  fig = plt.figure(figsize=(15, 15), dpi=100)
   ax = fig.add_subplot(111, projection='3d', adjustable='box', aspect="auto")
   
   # Plot hemisphere surface values as a line at e=0
@@ -69,7 +79,7 @@ def hemispheroid_PAP():
   oblate_vals = oblate_planar(r_vals_oblate, e_vals_oblate, G, rho)
   
   # Create 3D plot
-  fig = plt.figure(figsize=(15, 15), dpi=600)
+  fig = plt.figure(figsize=(15, 15), dpi=100)
   ax = fig.add_subplot(111, projection='3d', adjustable='box', aspect="auto")
   
   # Plot hemisphere surface values as a line at e=0
@@ -123,7 +133,7 @@ def hemispheroid_SVR():
   oblate_vals = oblate_svr(r_vals_oblate, e_vals_oblate)
   
   # Create 3D plot
-  fig = plt.figure(figsize=(15, 15), dpi=600)
+  fig = plt.figure(figsize=(15, 15), dpi=100)
   ax = fig.add_subplot(111, projection='3d', adjustable='box', aspect="auto")
   
   # Plot hemisphere surface values as a line at e=0
@@ -166,11 +176,10 @@ def branching_SAP():
   h_vals, a_vals = np.meshgrid(h, a)
   
   # Calculate the surface values for each shape
-  #hemisphere_vals = hemisphere_surface(h_vals/a_vals, 1, G, rho)  # Hemisphere surface with e=0
   branching_vals = branching_surface(h_vals, a_vals, G, rho)
   
   # Create 3D plot
-  fig = plt.figure(figsize=(15, 15), dpi=600)
+  fig = plt.figure(figsize=(15, 15), dpi=100)
   ax = fig.add_subplot(111, projection='3d', adjustable='box', aspect="auto")
   
   # Plot oblate surface values
@@ -211,7 +220,7 @@ def branching_SVR():
   branching_vals = branching_svr(h_vals, a_vals, G, rho)
   
   # Create 3D plot
-  fig = plt.figure(figsize=(15, 15), dpi=600)
+  fig = plt.figure(figsize=(15, 15), dpi=100)
   ax = fig.add_subplot(111, projection='3d', adjustable='box', aspect="auto")
   
   # Plot oblate surface values
