@@ -1,5 +1,9 @@
 # main.py
-import imports
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+from functions import *
+from plotting import *
 
 def main():
     # Set your constants (G, rho, etc.)
