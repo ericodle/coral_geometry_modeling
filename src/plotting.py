@@ -13,6 +13,7 @@ e_prolate = const.e_prolate
 
 h = const.h
 a = const.a
+
 # Plot the surface area productivity for hemispheroids
 def hemispheroid_SAP():
   # Create meshgrid for oblate and prolate
