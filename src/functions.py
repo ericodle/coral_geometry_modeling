@@ -1,17 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-import src.constants as const
-
-G = const.G
-rho = const.rho
-
-r = const.r
-e_oblate = const.e_oblate
-e_prolate = const.e_prolate
-
-h = const.h
-a = const.a
 
 #HEMISPHERE
 
