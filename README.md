@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Coral Colony Geometry and Growth research project repository. In this project, we explore the fascinating world of clonal organisms, specifically reef-building corals. These organisms exhibit a diverse range of colony morphologies and geometric shapes, which have profound physiological and ecological implications.
+This repository is supplemental to the research article " Coral Geometry and Why It Matters". In this project, we explore the growth dynamics of reef-building corals. These organisms exhibit a diverse range of colony morphologies and geometric shapes, which have profound physiological and ecological implications.
 
 ## Project Description
 
@@ -23,7 +23,7 @@ We welcome contributions from the scientific community and collaborators who are
 
 ## Citing Our Research
 
-Our research paper provides a comprehensive overview of the methodology, results, and insights derived from this repository. You can access the full paper [here](https://www.researchgate.net/publication/371607590_Geometry_and_why_it_matters).
+Our research paper provides a comprehensive overview of the methodology, results, and insights derived from this repository. Please cite as: [citation will be provided after publication].
 
 ## License
 
