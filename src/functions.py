@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-#HEMISPHERE
+# HEMISPHERE
 
 def hemisphere_surface(r, e, G, rho):
     S_2 = (((3 * G * r**2)/(rho)) + r**3)**(2/3)
@@ -17,7 +17,7 @@ def hemisphere_planar(r, e, G, rho):
 def hemisphere_svr(r):
     return 3/r
 
-#PROLATE
+# PROLATE
 
 def prolate_c(r, e):
     return r/np.sqrt(1 - e**2)
@@ -38,7 +38,7 @@ def prolate_planar(r, e, G, rho):
 def prolate_svr(r, e):
     return (3 / (2*prolate_c(r, e))) + ((3 * np.arcsin(e)) / (2*r*e))
 
-#OBLATE
+# OBLATE
 
 def oblate_c(r, e):
     return r*np.sqrt(1 - e**2)
