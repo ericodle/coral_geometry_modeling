@@ -1,5 +1,14 @@
 # Coral Colony Geometry and Growth
 [![DOI](https://zenodo.org/badge/701949759.svg)](https://zenodo.org/doi/10.5281/zenodo.10668779)
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://github.com/ericodle/PlanktoNET/blob/main/img/planktonet_logo.png" alt="Logo" width="300" height="300">
+  </a>
+
+
 ## Overview
 
 This repository is supplemental to the research article " Coral Geometry and Why It Matters". In this project, we explore the growth dynamics of reef-building corals. These organisms exhibit a diverse range of colony morphologies and geometric shapes, which have profound physiological and ecological implications.
