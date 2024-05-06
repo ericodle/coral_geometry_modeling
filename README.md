@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/ericodle/PlanktoNET/blob/main/img/planktonet_logo.png" alt="Logo" width="300" height="300">
+    <img src="https://github.com/ericodle/coral_geometry_modeling/blob/main/img/coral_logo.png" alt="Logo" width="300" height="300">
   </a>
 
 
